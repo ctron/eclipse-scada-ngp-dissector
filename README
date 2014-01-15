@@ -1,0 +1,6 @@
+This is a wireshark dissector for the Eclipse SCADA NGP protocol stack.
+
+The build system uses cmake, see the file INSTALL.
+
+Based on the work of Reinhold Kainhofer <reinhold@kainhofer.com>
+Implemented by Jens Reimann <jens.reimann@ibh-systems.com>
